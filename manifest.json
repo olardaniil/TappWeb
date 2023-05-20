@@ -1,6 +1,6 @@
 {
-    "name": "donstu_app",
-    "short_name": "donstu_app",
+    "name": "ИОТ | ДГТУ",
+    "short_name": "ИОТ | ДГТУ",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#313139",
