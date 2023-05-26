@@ -2,7 +2,7 @@
     "name": "Xproject",
     "short_name": "Xproject",
     "start_url": ".",
-    "display": "fullscreen",
+    "display": "standalone",
     "background_color": "#313139",
     "theme_color": "#313139",
     "description": "Xproject.",
