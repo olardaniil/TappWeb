@@ -1,13 +1,11 @@
 {
-    "name": "tapp",
-    "short_name": "tapp",
+    "name": "Tapp",
+    "short_name": "Tapp",
     "start_url": ".",
-    "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "display": "minimal-ui",
+    "description": "Кроссплатформенная система для взаимодейтсвия с Институтом Сквозных Технологий | ДГТУ",
     "orientation": "portrait-primary",
-    "prefer_related_applications": false,
+    "prefer_related_applications": true,
     "icons": [
         {
             "src": "icons/Icon-192.png",
