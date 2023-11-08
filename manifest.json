@@ -2,7 +2,7 @@
     "name": "Tapp",
     "short_name": "Tapp",
     "start_url": ".",
-    "display": "minimal-ui",
+    "display": "standalone",
     "description": "Кроссплатформенная система для взаимодейтсвия с Институтом Сквозных Технологий | ДГТУ",
     "orientation": "portrait-primary",
     "prefer_related_applications": true,
