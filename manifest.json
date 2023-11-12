@@ -5,7 +5,7 @@
     "display": "standalone",
     "description": "Кроссплатформенная система для взаимодейтсвия с Институтом Сквозных Технологий | ДГТУ",
     "orientation": "portrait-primary",
-    "prefer_related_applications": false,
+    "prefer_related_applications": true,
     "icons": [
         {
             "src": "icons/Icon-192.png",

@@ -3,17 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "dc1b56abce1faf15c8f36d4b87d49ffb",
-"assets/AssetManifest.json": "22195b0bdfff42ccfd6dd44968f74b60",
-"assets/assets/fonts/Comfortaa-Bold.ttf": "ba7a464dc19e86479a1fcf8225684d5a",
-"assets/assets/fonts/Comfortaa-Light.ttf": "dc4ce4883f73942896c25260f72b25ff",
-"assets/assets/fonts/Comfortaa-Medium.ttf": "b08df26bba974c7bf98239928f2871d5",
-"assets/assets/fonts/Comfortaa-Regular.ttf": "177d27c79a33cd336e730e404d28513a",
-"assets/assets/fonts/Comfortaa-SemiBold.ttf": "c9c219a0f8de926a3c38d73992930a74",
-"assets/assets/fonts/Inter-Bold.ttf": "275bfea5dc74c33f51916fee80feae67",
-"assets/assets/fonts/Inter-Medium.ttf": "ed533866b5c83114c7dddbcbc2288b19",
-"assets/assets/fonts/Inter-Regular.ttf": "079af0e2936ccb99b391ddc0bbb73dcb",
-"assets/assets/fonts/Inter-Thin.ttf": "2dce622147cace7b467d9929b7708430",
+const RESOURCES = {"assets/AssetManifest.bin": "b3eed7df8ad37a1ade7856ab451ff001",
+"assets/AssetManifest.json": "7fdb8150d4eb9e41e128173be1ebdaa3",
 "assets/assets/fonts/San-Francisco-Pro/SFProText-Bold.ttf": "d6079ef01292c4bc84dce33988641530",
 "assets/assets/fonts/San-Francisco-Pro/SFProText-BoldItalic.ttf": "37ad4cdd6c17c64d2c7805bc426e45c0",
 "assets/assets/fonts/San-Francisco-Pro/SFProText-Heavy.ttf": "6c498791e52ee77eedea219f291f638d",
@@ -60,9 +51,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "dc1b56abce1faf15c8f36d4b87d49ffb
 "assets/assets/logos/logoNoBG.webp": "aa5607cee3b97129292aa9d032b2bfd5",
 "assets/assets/logos/LogoNoText.png": "a860611f51ac55814facb34891faf8a6",
 "assets/assets/logos/LogoNoText.svg": "60f368858098f9c0246cfda4e594cfe9",
-"assets/FontManifest.json": "44e3e0f2f42a7a430a8659c904e459a1",
+"assets/FontManifest.json": "611746933447b072d8eabf2fe83756d5",
 "assets/fonts/MaterialIcons-Regular.otf": "5879b203459aa98e283c41e35e450051",
-"assets/NOTICES": "981708d0a2c2491b5b2b906d59b6b0b5",
+"assets/NOTICES": "9d811b1d33943eac6c6db8f527e7cc7a",
 "assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
 "assets/packages/fluttertoast/assets/toastify.js": "56e2c9cedd97f10e7e5f1cebd85d53e3",
 "assets/packages/simple_circular_progress_bar/fonts/Roboto-Regular.ttf": "8a36205bd9b83e03af0591a004bc97f4",
@@ -80,11 +71,11 @@ const RESOURCES = {"assets/AssetManifest.bin": "dc1b56abce1faf15c8f36d4b87d49ffb
 "icons/Icon-512.png": "d9485935093e3e77a34aa52a931d62d0",
 "icons/Icon-maskable-192.png": "51df11bddfd52814b7f8913789bf11f3",
 "icons/Icon-maskable-512.png": "d9485935093e3e77a34aa52a931d62d0",
-"index.html": "1ccfc243eec7879e27527c34d8b0e812",
-"/": "1ccfc243eec7879e27527c34d8b0e812",
-"main.dart.js": "f9db1f13f5e0630efaecb29e61e4ed71",
+"index.html": "4643f290a4db45c4b2df410cbdf7565b",
+"/": "4643f290a4db45c4b2df410cbdf7565b",
+"main.dart.js": "19a3d609e22aef10cb4947146379efac",
 "manifest.json": "9015e0800b92b9f83a419a038b696be4",
-"version.json": "f47585a8972b4fb8328e39f3e471eac3"};
+"version.json": "a0e87adbfa640fc6f7ded889e4889fbb"};
 // The application shell files that are downloaded before a service worker can
 // start.
 const CORE = ["main.dart.js",
